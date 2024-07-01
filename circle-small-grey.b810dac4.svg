@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="505px" height="995px" viewBox="0 0 505 995" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.7385502%" y1="16.9069646%" x2="68.2822756%" y2="69.0697857%" id="linearGradient-1">
+            <stop stop-color="#EEF0F2" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="52.2749199%" y1="19.9535538%" x2="68.2822756%" y2="69.0697857%" id="linearGradient-2">
+            <stop stop-color="#F4F7FA" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About-us" transform="translate(0.000000, -454.000000)">
+            <g id="Bg" transform="translate(-496.000000, 0.000000)">
+                <g transform="translate(0.000000, 54.000000)" id="2">
+                    <g transform="translate(0.000000, 400.000000)">
+                        <circle id="Oval-Copy-2" stroke="url(#linearGradient-1)" cx="526" cy="475" r="474.5"></circle>
+                        <circle id="Oval" stroke="url(#linearGradient-2)" stroke-width="320" cx="492" cy="503" r="332"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
