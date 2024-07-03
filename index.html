@@ -44,7 +44,34 @@
 
     gtag('config', 'UA-183647-19');
 </script>
-	<script id="embedai" src="https://embedai.thesamur.ai/embedai.js" data-id="complianceai-9tt1Ui08" data-icon="chat.png"></script>
+	<head>
+    <style>
+        /* Override the chatbot icon */
+        .embedai-logo {
+            content: url('chat.png') !important;
+            width: 40px;  /* Adjust the width as necessary */
+            height: 40px; /* Adjust the height as necessary */
+        }
+    </style>
+</head>
+<body class="page">
+    <header class="header">
+        <div class="header__wrapper">
+            <div class="container">
+                <div class="row header__inner">
+                    <div class="col-6 col-md-2">
+                        <a href="/" class="header__logo">
+                            <img src="chat.png" alt="Logo" width="125px" height="32px">
+                        </a>
+                    </div>
+                    <!-- Add your additional header elements here -->
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- EmbedAI script -->
+    <script id="embedai" src="https://embedai.thesamur.ai/embedai.js" data-id="complianceai-9tt1Ui08"></script>
+</body>
 
     </head>
     <body class="page ">
